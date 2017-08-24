@@ -7,6 +7,10 @@ Custom Sounds For FiveM!
 * Custom Turbo BOV Sounds (Added custom blow off valve, Bwaaahh Sutututu)
 * Disabled Loading Music
 * Disabled Some Ambient Sounds
+# Installation
+Step #1
+Go to your Grand Theft Auto V Directory
+```
 # TODO
 * Add video
 * Add more custom engine sounds
