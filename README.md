@@ -12,6 +12,15 @@ Step #1
 ```
 Go to your Grand Theft Auto V Directory
 ```
+Step #2
+```
+Open x64/audio/sfx
+```
+Step #3
+```
+Replace the .rpf with the ones provided in the download
+```
+That's it!
 # TODO
 * Add video
 * Add more custom engine sounds
