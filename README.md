@@ -6,5 +6,5 @@ Custom Sounds For FiveM!
 
 ● Add video
 
-● Add more custom engine sounds#
+● Add more custom engine sounds
 ● Add new sounds?
