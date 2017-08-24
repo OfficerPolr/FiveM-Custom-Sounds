@@ -9,9 +9,9 @@ Custom Sounds For FiveM!
 * Disabled Some Ambient Sounds
 # Installation
 Step #1
+```
 Go to your Grand Theft Auto V Directory
 ```
-
 # TODO
 * Add video
 * Add more custom engine sounds
