@@ -34,8 +34,8 @@ Downloads from smallest file size to largest. In the features is where you can s
 * <a href="https://goo.gl/Y78f5v">WEAPONS_PLAYER.rpf</a>
 * <a href="https://goo.gl/fcWGyU">PROLOGUE.rpf</a>
 * <a href="https://goo.gl/1A2QZb">STREAMED_VEHICLES.rpf</a>
-* <a href="https://goo.gl/cHSs29">ONESHOT_AMBIENCE.rpf</a> <<Still Uploading Don't Download
-* <a href="https://goo.gl/x85aP2">RESIDENT.rpf</a> <<Still Uploading Don't Download
+* <a href="https://goo.gl/cHSs29">ONESHOT_AMBIENCE.rpf</a>
+* <a href="https://goo.gl/x85aP2">RESIDENT.rpf</a> 
 * <a href="https://goo.gl/qFC9f8">STREAMED_VEHICLES_GRANULAR.rpf</a>
 
 # TODO
@@ -60,3 +60,6 @@ Date: 8/26/17 11:39AM EST
 
 Date: 8/26/17 11:44AM EST
 * Fixed some hyperlinks, Fixed TODO List, Fixed what the .rpf was for, for "Disabled Loading Music"
+
+Date: 8/26/17 01:07PM EST
+* Updated all files, good for download. Updated readme on most files.
