@@ -30,6 +30,7 @@ That's it!
 
 # Downloads
 Downloads from smallest file size to largest. In the features is where you can see what .rpf files contain what.
+DO NOT DOWNLOAD SOUNDS, STILL UPLOADING FILES, I DO NOT HAVE THE BEST INTERNET, WHEN THIS MESSAGE IS REMOVED PLEASE DOWNLOAD THE FILES :)
 * <a href="https://goo.gl/Y78f5v">WEAPONS_PLAYER.rpf</a>
 * <a href="https://goo.gl/fcWGyU">PROLOGUE.rpf</a>
 * <a href="https://goo.gl/1A2QZb">STREAMED_VEHICLES.rpf</a>
