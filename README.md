@@ -32,7 +32,7 @@ That's it!
 * Add each .rpf in separate zip file (Not Separating sound files)
 # Changelog
 ```
-* Made installation instructions
-* Moved mega link onto github
-* Added Disclaimer
+Made installation instructions
+Moved mega link onto github
+Added Disclaimer
 ```
