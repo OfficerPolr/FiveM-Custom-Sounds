@@ -1,5 +1,7 @@
 # FiveM-Custom-Sounds
 Custom Sounds For FiveM! 
+# DISCLAIMER
+As of now i cannot add them directly to github due to the massave file size, sadly i cannot prevent this so, mega it is.
 # Features
 * Custom Siren Sounds (LAPD)
 * Custom Weapon Sounds (Baka’s Weapon Pack)
@@ -21,8 +23,7 @@ Step #3
 Replace the .rpf with the ones provided in the download
 ```
 That's it!
-# Downloads
-As of now i cannot add them directly to github due to the massave file size, sadly i cannot prevent this so, mega it is.
+# Download
 * https://mega.nz/#!hIV3jRaZ!wvbwQxeQQAl8Nt12gyDj4qYvYU6xZsyoZ4DQG5nkaC8
 # TODO
 * Add video
@@ -32,3 +33,4 @@ As of now i cannot add them directly to github due to the massave file size, sad
 # Changelog
 * Made installation instructions
 * Moved mega link onto github
+* Added Disclaimer
