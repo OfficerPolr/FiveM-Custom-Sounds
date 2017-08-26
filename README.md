@@ -1,7 +1,9 @@
 # FiveM-Custom-Sounds
 FiveM Custom Sounds Made by OfficerPolr. Do note i didnt make these and simply merged multiple files onto a .rpf file for easy installation.
+
 # DISCLAIMER
 As of now i cannot add them directly to github due to the massave file size, sadly i cannot prevent this so, mega it is.
+
 # Features
 * Custom Siren Sounds (LAPD) (RESIDENT.rpf)
 * Custom Weapon Sounds (Baka’s Weapon Pack) (WEAPONS_PLAYER.rpf, RESIDENT.rpf)
@@ -9,7 +11,8 @@ As of now i cannot add them directly to github due to the massave file size, sad
 * Custom Turbo Sounds (<a href="https://www.gta5-mods.com/vehicles/other-turbo-sound">Other Turbo Sound by Hippy</a>) (RESIDENT.rpf)
 * Custom Backfire Sounds (<a href="https://www.gta5-mods.com/vehicles/other-backfire-sound">Other Backfire Sound by Hippy</a>) (RESIDENT.rpf)
 * Disabled Loading Music (PROLOGUE.rpf)
-* Disabled Some Ambient Sounds (Removed Some Distant Vehicle Sounds) (ONESHOT_AMBIENCE.rpf)
+* Disabled Some Ambient Sounds (<a href="https://www.gta5-mods.com/misc/no-distant-car-sounds">No Distant Car Sounds</a>) (ONESHOT_AMBIENCE.rpf)
+
 # Installation
 Step #1
 ```
@@ -24,6 +27,7 @@ Step #3
 Replace the .rpf with the ones provided in the download
 ```
 That's it!
+
 # Downloads
 Downloads from smallest file size to largest. In the features is where you can see what .rpf files contain what.
 * <a href="https://goo.gl/Y78f5v">WEAPONS_PLAYER.rpf</a>
@@ -32,11 +36,13 @@ Downloads from smallest file size to largest. In the features is where you can s
 * <a href="https://goo.gl/cHSs29">ONESHOT_AMBIENCE.rpf</a>
 * <a href="https://goo.gl/x85aP2">RESIDENT.rpf</a>
 * <a href="https://mega.nz/#!BIsAUJhC!p97OsbYx0QyF1zaQzaaldYUzgkho9-Ny_dUJvTTudUk">STREAMED_VEHICLES_GRANULAR.rpf</a>
+
 # TODO
 * Add video
 * Add more custom engine sounds
 * Add new sounds?
-* Add each .rpf in separate zip file (Not Separating sound files)
+* ~~Add each .rpf in separate zip file (Not Separating sound files)
+
 # Changelog
 * Made installation instructions
 * Moved mega link onto github
