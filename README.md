@@ -31,6 +31,8 @@ That's it!
 * Add new sounds?
 * Add each .rpf in separate zip file (Not Separating sound files)
 # Changelog
+```
 * Made installation instructions
 * Moved mega link onto github
 * Added Disclaimer
+```
