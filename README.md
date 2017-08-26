@@ -41,7 +41,7 @@ Downloads from smallest file size to largest. In the features is where you can s
 * Add video
 * Add more custom engine sounds
 * Add new sounds?
-* ~~Add each .rpf in separate zip file (Not Separating sound files)
+* ~~Add each .rpf in separate zip file (Not Separating sound files)~~
 
 # Changelog
 * Made installation instructions
