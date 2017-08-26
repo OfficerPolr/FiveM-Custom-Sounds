@@ -21,9 +21,14 @@ Step #3
 Replace the .rpf with the ones provided in the download
 ```
 That's it!
+# Downloads
+As of now i cannot add them directly to github due to the massave file size, sadly i cannot prevent this so, mega it is.
+* https://mega.nz/#!hIV3jRaZ!wvbwQxeQQAl8Nt12gyDj4qYvYU6xZsyoZ4DQG5nkaC8
 # TODO
 * Add video
 * Add more custom engine sounds
 * Add new sounds?
 * Add each .rpf in separate zip file (Not Separating sound files)
-#
+# Changelog
+* Made installation instructions
+* Moved mega link onto github
