@@ -5,11 +5,11 @@ As of now i cannot add them directly to github due to the massave file size, sad
 # Features
 * Custom Siren Sounds (LAPD) (RESIDENT.rpf)
 * Custom Weapon Sounds (Baka’s Weapon Pack) (WEAPONS_PLAYER.rpf, RESIDENT.rpf)
-* Custom Vehicle Sounds (CPVI Sounds by ljcrary, Bus Sounds By TheSigui, Kenworth Diesel Engine Sound By IAmGtaBoy, Some Vehicle Sounds By Hippy) (STREAMED_VEHICLES_GRANULAR.rpf)
-* Custom Turbo BOV Sounds (Other Turbo Sound by Hippy) (RESIDENT.rpf)
-* Custom Backfire Sounds (Other Backfire Sound by Hippy) (RESIDENT.rpf)
+* Custom Vehicle Sounds (<a href="http://www.lcpdfr.com/files/file/8689-crown-victoria-sound-mod-v2/">CPVI Sounds by ljcrary</a>, <a href="https://www.gta5-mods.com/vehicles/new-bus-sounds">Bus Sounds By TheSigui</a>, <a href="https://www.gta5-mods.com/vehicles/kenworth-diesel-engine-sound-mod">Kenworth Diesel Engine Sound By IAmGtaBoy</a>, Some Vehicle Sounds By <a href="https://www.gta5-mods.com/users/Hippy">Hippy</a>) (STREAMED_VEHICLES_GRANULAR.rpf)
+* Custom Turbo BOV Sounds (Other Turbo Sound by <a href="https://www.gta5-mods.com/users/Hippy">Hippy</a>) (RESIDENT.rpf)
+* Custom Backfire Sounds (Other Backfire Sound by <a href="https://www.gta5-mods.com/users/Hippy">Hippy</a>) (RESIDENT.rpf)
 * Disabled Loading Music
-* Disabled Some Ambient Sounds (Removed Distant Vehicle Sounds(some) (ONESHOT_AMBIENCE.rpf)
+* Disabled Some Ambient Sounds (Removed Some Distant Vehicle Sounds) (ONESHOT_AMBIENCE.rpf)
 # Installation
 Step #1
 ```
@@ -47,3 +47,6 @@ Date: 8/26/17 10:10AM EST
 
 Date: 8/26/17 11:30AM EST
 * Fixed some stuff, added download links
+
+Date: 8/26/17 11:39AM EST
+* Added Hyperlinks to where i got the sound files
