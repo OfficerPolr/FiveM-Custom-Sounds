@@ -5,10 +5,10 @@ As of now i cannot add them directly to github due to the massave file size, sad
 # Features
 * Custom Siren Sounds (LAPD) (RESIDENT.rpf)
 * Custom Weapon Sounds (Baka’s Weapon Pack) (WEAPONS_PLAYER.rpf, RESIDENT.rpf)
-* Custom Vehicle Sounds (<a href="http://www.lcpdfr.com/files/file/8689-crown-victoria-sound-mod-v2/">CPVI Sounds by ljcrary</a>, <a href="https://www.gta5-mods.com/vehicles/new-bus-sounds">Bus Sounds By TheSigui</a>, <a href="https://www.gta5-mods.com/vehicles/kenworth-diesel-engine-sound-mod">Kenworth Diesel Engine Sound By IAmGtaBoy</a>, Some Vehicle Sounds By <a href="https://www.gta5-mods.com/users/Hippy">Hippy</a>) (STREAMED_VEHICLES_GRANULAR.rpf)
-* Custom Turbo BOV Sounds (Other Turbo Sound by <a href="https://www.gta5-mods.com/users/Hippy">Hippy</a>) (RESIDENT.rpf)
-* Custom Backfire Sounds (Other Backfire Sound by <a href="https://www.gta5-mods.com/users/Hippy">Hippy</a>) (RESIDENT.rpf)
-* Disabled Loading Music
+* Custom Vehicle Sounds (<a href="http://www.lcpdfr.com/files/file/8689-crown-victoria-sound-mod-v2/">CPVI Sounds by ljcrary</a>, <a href="https://www.gta5-mods.com/vehicles/new-bus-sounds">Bus Sounds By TheSigui</a>, <a href="https://www.gta5-mods.com/vehicles/kenworth-diesel-engine-sound-mod">Kenworth Diesel Engine Sound By IAmGtaBoy</a>, <a href="https://www.gta5-mods.com/users/Hippy">Some Vehicle Sounds By Hippy</a>) (STREAMED_VEHICLES_GRANULAR.rpf)
+* Custom Turbo Sounds (<a href="https://www.gta5-mods.com/vehicles/other-turbo-sound">Other Turbo Sound by Hippy</a>) (RESIDENT.rpf)
+* Custom Backfire Sounds (<a href="https://www.gta5-mods.com/vehicles/other-backfire-sound">Other Backfire Sound by Hippy</a>) (RESIDENT.rpf)
+* Disabled Loading Music (PROLOGUE.rpf)
 * Disabled Some Ambient Sounds (Removed Some Distant Vehicle Sounds) (ONESHOT_AMBIENCE.rpf)
 # Installation
 Step #1
@@ -50,3 +50,6 @@ Date: 8/26/17 11:30AM EST
 
 Date: 8/26/17 11:39AM EST
 * Added Hyperlinks to where i got the sound files
+
+Date: 8/26/17 11:44AM EST
+* Fixed some hyperlinks, Fixed TODO List, Fixed what the .rpf was for, for "Disabled Loading Music"
