@@ -25,7 +25,13 @@ Replace the .rpf with the ones provided in the download
 ```
 That's it!
 # Downloads
-* https://mega.nz/#!hIV3jRaZ!wvbwQxeQQAl8Nt12gyDj4qYvYU6xZsyoZ4DQG5nkaC8
+Downloads from smallest file size to largest. In the features is where you can see what .rpf files contain what.
+* <a href="https://goo.gl/Y78f5v">WEAPONS_PLAYER.rpf</a>
+* <a href="https://goo.gl/fcWGyU">PROLOGUE.rpf</a>
+* <a href="https://goo.gl/1A2QZb">STREAMED_VEHICLES.rpf</a>
+* <a href="https://goo.gl/cHSs29">ONESHOT_AMBIENCE.rpf</a>
+* <a href="https://goo.gl/x85aP2">RESIDENT.rpf</a>
+* <a href="https://mega.nz/#!BIsAUJhC!p97OsbYx0QyF1zaQzaaldYUzgkho9-Ny_dUJvTTudUk">STREAMED_VEHICLES_GRANULAR.rpf</a>
 # TODO
 * Add video
 * Add more custom engine sounds
@@ -36,5 +42,8 @@ That's it!
 * Moved mega link onto github
 * Added Disclaimer
 
-Date: 8/26/17 10:10EST
+Date: 8/26/17 10:10AM EST
 * Slowly making seperate downloads, started adding dates and times
+
+Date: 8/26/17 11:07AM EST
+* Fixed some stuff, added download links
