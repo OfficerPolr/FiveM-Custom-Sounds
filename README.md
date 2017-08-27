@@ -33,10 +33,10 @@ Downloads from smallest file size to largest. In the features is where you can s
 
 * <a href="https://goo.gl/Y78f5v">WEAPONS_PLAYER.rpf</a>
 * <a href="https://goo.gl/fcWGyU">PROLOGUE.rpf</a>
-* <a href="https://goo.gl/1A2QZb">STREAMED_VEHICLES.rpf</a>
-* <a href="https://goo.gl/cHSs29">ONESHOT_AMBIENCE.rpf</a>
-* <a href="https://goo.gl/x85aP2">RESIDENT.rpf</a> 
-* <a href="https://goo.gl/qFC9f8">STREAMED_VEHICLES_GRANULAR.rpf</a>
+* <a href="https://mega.nz/#!QJtwzDRa!B5MofVtOEmyxJ6hhE1uSmaB8d6cL5ABGcvHe13T06hA">STREAMED_VEHICLES.rpf</a>
+* <a href="https://mega.nz/#!EcNBXJoR!6ShmYEyIijZdW-j7xxwsgz6uXZBbeBY5-f1djt18NUw">ONESHOT_AMBIENCE.rpf</a>
+* <a href="https://mega.nz/#!sYM2USJL!D3TjsnG7mlwGKcK1SMvaM_GEzwDF8MZnnGQXVT-iJkQ">RESIDENT.rpf</a> 
+* <a href="https://mega.nz/#!BQMHkITJ!3B_HIqzaMy5sTejZlUkZYEAkTQFvbNW0KEiRQQnCvng">STREAMED_VEHICLES_GRANULAR.rpf</a>
 
 # TODO
 * Add video
@@ -63,3 +63,6 @@ Date: 8/26/17 11:44AM EST
 
 Date: 8/26/17 01:07PM EST
 * Updated all files, good for download. Updated readme on most files.
+
+Date: 8/27/17 05:51PM EST
+* Fixed Links
