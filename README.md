@@ -32,7 +32,6 @@ That's it!
 Downloads from smallest file size to largest. In the features is where you can see what .rpf files contain what.
 
 * <a href="https://goo.gl/Y78f5v">WEAPONS_PLAYER.rpf</a>
-* <a href="https://goo.gl/fcWGyU">PROLOGUE.rpf</a>
 * <a href="https://mega.nz/#!QJtwzDRa!B5MofVtOEmyxJ6hhE1uSmaB8d6cL5ABGcvHe13T06hA">STREAMED_VEHICLES.rpf</a>
 * <a href="https://mega.nz/#!EcNBXJoR!6ShmYEyIijZdW-j7xxwsgz6uXZBbeBY5-f1djt18NUw">ONESHOT_AMBIENCE.rpf</a>
 * <a href="https://mega.nz/#!sYM2USJL!D3TjsnG7mlwGKcK1SMvaM_GEzwDF8MZnnGQXVT-iJkQ">RESIDENT.rpf</a> 
@@ -66,3 +65,6 @@ Date: 8/26/17 01:07PM EST
 
 Date: 8/27/17 05:51PM EST
 * Fixed Links
+
+Date: 9/2/17 5:21PM EST
+* Removed PROLOGUE.rpf, FiveM added an update removing this
