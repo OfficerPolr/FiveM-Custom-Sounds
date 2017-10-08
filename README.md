@@ -35,7 +35,7 @@ Downloads from smallest file size to largest. In the features is where you can s
 * <a href="https://mega.nz/#!QJtwzDRa!B5MofVtOEmyxJ6hhE1uSmaB8d6cL5ABGcvHe13T06hA">STREAMED_VEHICLES.rpf</a>
 * <a href="https://mega.nz/#!EcNBXJoR!6ShmYEyIijZdW-j7xxwsgz6uXZBbeBY5-f1djt18NUw">ONESHOT_AMBIENCE.rpf</a>
 * <a href="https://mega.nz/#!sYM2USJL!D3TjsnG7mlwGKcK1SMvaM_GEzwDF8MZnnGQXVT-iJkQ">RESIDENT.rpf</a> 
-* <a href="https://mega.nz/#!BQMHkITJ!3B_HIqzaMy5sTejZlUkZYEAkTQFvbNW0KEiRQQnCvng">STREAMED_VEHICLES_GRANULAR.rpf</a>
+* <a href="https://goo.gl/5f7mx9">STREAMED_VEHICLES_GRANULAR.rpf</a>
 
 # TODO
 * Add video
