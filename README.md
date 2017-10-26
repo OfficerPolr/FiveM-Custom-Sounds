@@ -34,7 +34,7 @@ Downloads from smallest file size to largest. In the features is where you can s
 * <a href="https://goo.gl/Y78f5v">WEAPONS_PLAYER.rpf</a>
 * <a href="https://mega.nz/#!QJtwzDRa!B5MofVtOEmyxJ6hhE1uSmaB8d6cL5ABGcvHe13T06hA">STREAMED_VEHICLES.rpf</a>
 * <a href="https://mega.nz/#!EcNBXJoR!6ShmYEyIijZdW-j7xxwsgz6uXZBbeBY5-f1djt18NUw">ONESHOT_AMBIENCE.rpf</a>
-* <a href="https://mega.nz/#!sYM2USJL!D3TjsnG7mlwGKcK1SMvaM_GEzwDF8MZnnGQXVT-iJkQ">RESIDENT.rpf</a> 
+* <a href="https://mega.nz/#!Qc8TRYjI!4omIOvbJwYyvS2yc3iH8zOqNJry8Y93kPtEfebPA7Kk">RESIDENT.rpf</a> 
 * <a href="https://mega.nz/#!BEFjjZ7A!eEa2hzAsa4UBFs7ddEDFopQWSJ_oIhkHNOkc87BvX00">STREAMED_VEHICLES_GRANULAR.rpf</a>
 
 # Whelen Sirens
