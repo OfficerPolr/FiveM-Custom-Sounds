@@ -35,7 +35,10 @@ Downloads from smallest file size to largest. In the features is where you can s
 * <a href="https://mega.nz/#!QJtwzDRa!B5MofVtOEmyxJ6hhE1uSmaB8d6cL5ABGcvHe13T06hA">STREAMED_VEHICLES.rpf</a>
 * <a href="https://mega.nz/#!EcNBXJoR!6ShmYEyIijZdW-j7xxwsgz6uXZBbeBY5-f1djt18NUw">ONESHOT_AMBIENCE.rpf</a>
 * <a href="https://mega.nz/#!sYM2USJL!D3TjsnG7mlwGKcK1SMvaM_GEzwDF8MZnnGQXVT-iJkQ">RESIDENT.rpf</a> 
-* <a href="https://goo.gl/5f7mx9">STREAMED_VEHICLES_GRANULAR.rpf</a>
+* <a href="https://mega.nz/#!BEFjjZ7A!eEa2hzAsa4UBFs7ddEDFopQWSJ_oIhkHNOkc87BvX00">STREAMED_VEHICLES_GRANULAR.rpf</a>
+
+# Whelen Sirens
+* <a href="https://mega.nz/#!QB9nkDob!GxKhWJpx0TWnRETAwsNuJgOTzYLfiAaEfPDKS2ylVXQ">Download</a>
 
 # TODO
 * Add video
@@ -72,5 +75,5 @@ Date: 9/2/17 5:21PM EST
 Date: 10/8/17 02:43PM EST
 * Added different and improved cpvi sounds
 
-Date: 10/25/17 8:08PM EST
-* Updated Sirens (Modern Siren Pack), Added another with whelen sirens, Added new police charger sounds (Sound Swapped)
+Date: 10/25/17 8:26PM EST
+* Added another with whelen sirens, Added new police charger sounds (Sound Swapped)
