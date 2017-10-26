@@ -71,3 +71,6 @@ Date: 9/2/17 5:21PM EST
 
 Date: 10/8/17 02:43PM EST
 * Added different and improved cpvi sounds
+
+Date: 10/25/17 8:08PM EST
+* Updated Sirens (Modern Siren Pack), Added another with whelen sirens, Added new police charger sounds (Sound Swapped)
