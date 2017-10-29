@@ -5,7 +5,7 @@ FiveM Custom Sounds Made by OfficerPolr. Do note i didnt make these and simply m
 As of now i cannot add them directly to github due to the massave file size, sadly i cannot prevent this so, mega it is.
 
 # Features
-* Custom Siren Sounds (<a href="https://www.gta5-mods.com/misc/federal-signal-smart-siren-ss2000-for-siren-mastery">LAPD Federal Signal Smart Siren SS2000</a>, Add possibly some from <a href="https://www.gta5-mods.com/misc/realistic-american-sirens-pack">here</a>) (RESIDENT.rpf)
+* Custom Siren Sounds (<a href="http://www.lcpdfr.com/files/file/12907-whelen-295hfsa1-siren-with-manual-wail-sirenmastery-5-tones/">Whelen 295HFSA1</a>, And the rest are from <a href="http://www.lcpdfr.com/files/file/7798-realistic-american-sirens">here</a>) (RESIDENT.rpf)
 * Custom Weapon Sounds (<a href="http://www.gtainside.com/en/gta5/mods/88888-bakas-realistic-weapons-sounds/">Baka’s Weapon Pack</a>) (WEAPONS_PLAYER.rpf, RESIDENT.rpf)
 * Custom Vehicle Sounds (<a href="https://www.gta5-mods.com/misc/cvpi-v8-sound-mod-2006-2011-engine-v1-by-zzshadow1323">CPVI Sounds by zzshadow1323</a>, <a href="https://www.gta5-mods.com/vehicles/new-bus-sounds">Bus Sounds By TheSigui</a>, <a href="https://www.gta5-mods.com/vehicles/kenworth-diesel-engine-sound-mod">Kenworth Diesel Engine Sound By IAmGtaBoy</a>, <a href="https://www.gta5-mods.com/users/Hippy">Some Vehicle Sounds By Hippy</a>) (STREAMED_VEHICLES_GRANULAR.rpf) (STREAMED_VEHICLES.rpf)
 * Custom Turbo Sounds (<a href="https://www.gta5-mods.com/vehicles/other-turbo-sound">Other Turbo Sound by Hippy</a>) (RESIDENT.rpf)
